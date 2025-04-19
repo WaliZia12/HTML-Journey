@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+   <html>
+  <head>
+   
+  <title> Recipe Page </title>
+  <meta charset = "UTF-8">
+
+    </head>
+    
+    <body>
+      <h1> A Fried Egg </h1>
+      <p> today we will make an oreo milkshake </p>
+
+      <h2> Ingredients </h2>
+      <ul>
+        <li> oreo biscuits </li>
+        <li> milk </li>
+        </ul>
+
+        <h2>  Instructions </h2>
+        <ol>
+          <li> take the blender and add oreo biscuits in it (3 or 4) </li>
+          <li> after adding biscuits, add a 2 glasses of milk </li>
+          <li> once added, turn on the blender and start mixing </li>
+          <li> mix it for 4 to 5 minutes </li>
+        <img src = "https://saltandbaker.com/wp-content/uploads/2020/12/New-Oreo-Milkshake-3.jpg" height = 250 alt = our chef">
+        </body>
+          </html>
