@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+  <meta charset="UTF-8">
+  <meta name="description" content="This is a sample webpage that meets HTML meta tag requirements.">
+  <title>Wali's Travel Agency</title>
+</head>
+<body>
+<h1>Explore the World: Top Travel Destinations</h1>
+<p> view our website for more </p>
+<h2>Packages</h2>
+<p>Looking for your next getaway? We’ve got the best places lined up—whether you want to relax, explore, or try something totally new.</p>
+<ul>
+  <li>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels
+     </a>
+  </li>
+  <li>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours
+  </a>
+  </li>
+</ul>
+<h2> Top Itineraries </h2>
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Eiffel Tower in Paris">
+  </a>
+  <figcaption>Experience the romance and charm of Paris.</figcaption>
+</figure>
+
+
+   <figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Bali Beaches" target="_blank">
+  </a>
+  <figcaption>Relax on serene beaches in Bali.</figcaption>
+</figure>
+
+      <figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg " alt="Tokyo skyline at night">
+  </a>
+  <figcaption>Discover the vibrant life of Tokyo’s cityscape.</figcaption>
+</figure>
+
+  </body>
+    </html>
