@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+<h1> Video Compilation Page </h1>
+<p> Welcome to our video compilation page! Here, you'll find a curated collection of the best clips, moments, and highlights all in one place. Whether you're looking for entertainment, inspiration, or something new, we've got something for everyone. Sit back, relax, and enjoy the show! </p>
+
+<section>
+    <h2> video 1 </h2>
+    <p> this is video 1 </p>
+    <iframe 
+    src = "https://youtu.be/a3ICNMQW7Ok"
+    title ="sample video"
+    width = "400"
+    height = "200"
+    allowfullscreen>
+    </iframe>
+    </section>
+
+    <section>
+        <h2> video 2 </h2>
+        <p> this is video 2 </p>
+        <iframe 
+        src = "https://youtu.be/LXb3EKWsInQ"
+        title = "sample video 2"
+        width = "400"
+        height = "200"
+        allowfullscreen>
+        </iframe>
+        </section>
+
+<section>
+    <h2> video 3 </h2>
+    <p> this is video 3 </p>
+    <iframe 
+    src = "https://youtu.be/xrRDlOWR1OU"
+    title = "sample video 3"
+    width = "400"
+    height = "200"
+    allowfullscreen>
+    </iframe>
+    </section>
+
+</main>
+</body>
+
+</html>
