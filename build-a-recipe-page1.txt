@@ -9,7 +9,7 @@
     </head>
     
     <body>
-      <h1> A Fried Egg </h1>
+      <h1> Oreo Milkshake </h1>
       <p> today we will make an oreo milkshake </p>
 
       <h2> Ingredients </h2>
