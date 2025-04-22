@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1> Event Hub </h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+            </ul>
+            </nav>
+    </header>
+    <main>  
+ 
+    <section id="upcoming-events">
+    <h2> Upcoming Events </h2>
+    <article>
+ <h3> Summer Music Festival </h3>
+   <p> Join us for an exciting weekend of live music, food, and fun at the Summer Music Festival! Artists from around the world will perform in an open-air venue.</p>
+                            </article>
+        
+    <article>
+        <h3> event description </h3>
+        <p> description </p>
+        </article>
+</section>
+       <section id="past-events">
+           <h2> Past Events </h2>
+           <article>
+               <h3> even title </h3>
+               <p> description is here </p>
+               <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" width="350" alt="sample image">
+               </article>
+    <article>
+        <h3> event title </h3>
+        <p> event description </h3>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" width="350" alt="img">
+        </article>
+               </section>
+</main>
+
+
+</body>
+
+</html>
