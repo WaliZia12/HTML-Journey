@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+<h1 id="title">Title</h1>
+<p id="description">Description</p>
+
+<form id="survey-form">survey form</label>
+  <label id="name-label" for="name">name:</label>
+<input id="name" type="name" name="name" placeholder="enter your full name" required>
+ 
+
+<label id="email-label" for="email">email</label>
+  <input id="email" type="email" placeholder="enter your full email" required>
+  
+  <label id="number-label" for="number">number</label>
+    <input id="number" type="number" min="4" max="100" placeholder="enter your full number" required>
+    
+  <label for="dropdown">Select your role:</label>
+<select id="dropdown" name="role">
+  <option value="">-- Please choose an option --</option>
+  <option value="student">Student</option>
+  <option value="job">Full-time Job</option>
+  <option value="learner">Learner</option>
+  <option value="preferNo">Prefer not to say</option>
+</select>
+
+<input type="radio" name="gender" value="male">male
+<input type="radio" name="gender" value="female">female
+
+<form id="survey-form">
+
+  <p>What do you enjoy?</p>
+  <label>
+    <input type="checkbox" name="hobby" value="reading"> Reading
+  </label>
+
+  <label>
+    <input type="checkbox" name="hobby" value="coding"> Coding
+  </label>
+  <label id="name-label" for="name">name</label>
+
+  <input id="name" type="text" name="name" required placeholder="Enter your name">
+
+  <label for="comments">Any comments?</label>
+  <textarea id="comments" name="comments" placeholder="Write something here..."></textarea>
+
+  <input id="submit" type="submit" value="Submit Form">
+
+
+</form>
+
+
+</form>
+
+  <body></body>
+</html>
